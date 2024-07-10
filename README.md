@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning 
 <p>
 <br>
-1. Federated Learning and Wireless Communication
+1. Machine Learning
 <br>
 2. Deep Learning and Quantization Aware Training (QAT)
   <br>
-3. Advanced Programming and Data Structures 
+3. Data Structures and Algorithms
 </p>
  <br>
 - 📫 How to reach me <a href="mailto:monika21169@iiitd.ac.in">monika21169@iiitd.ac.in</a>
